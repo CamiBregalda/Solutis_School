@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lista_de_Exercicios_0/Lista_de_Exercicios_0.iml" filepath="$PROJECT_DIR$/Lista_de_Exercicios_0/Lista_de_Exercicios_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_de_Exercicios_1/Lista_de_Exercicios_1.iml" filepath="$PROJECT_DIR$/Lista_de_Exercicios_1/Lista_de_Exercicios_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Solutis_School.iml" filepath="$PROJECT_DIR$/.idea/Solutis_School.iml" />
+    </modules>
+  </component>
+</project>
